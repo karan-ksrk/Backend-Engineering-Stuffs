@@ -1,6 +1,5 @@
 One of the most critical properties of the REST Architecture (Representational State Transfer) is that it is stateless
-and the state gets transferred between the client and the server. I personally always found this to be confusing until
-I really learned architecture by actually using it. In this video, I will explain the state transfer in REST by example. 
+and the state gets transferred between the client and the server. 
 
 In a stateful architecture, the client makes a request to the server and the server “remembers” the client. The next
 request from the client will be retrieved from the state stored locally in the server. The pros of this are the server
